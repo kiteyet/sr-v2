@@ -1,5 +1,5 @@
 {
-  "name": "SSR2HeroKu",
+  "name": "sr-v2",
   "description": "Deploy SSRoT to Heroku.",
   "keywords": ["node","js","Docker"],
   "env": {
@@ -10,7 +10,7 @@
 
     "PASSWORD": {
       "description": "随机 密码, 请使用 uuidgenerator.net 生成一个新的 UUID 替换当前这个, 否则 GFW 很快会封了这服务端.",
-      "value": "13955112-79c5-4aae-ac01-aabec4c963aa"
+      "value": ""
     },
 
     "SECRET_PATH": {
@@ -18,7 +18,7 @@
       "value": "9ccbb338-2c45-4751-b767-8ba83a1e5624"
     }
   },
-  "website": "https://github.com/ShadowsocksR-Live/ssr2heroku",
-  "repository": "https://github.com/ShadowsocksR-Live/ssr2heroku",
+  "website": "https://github.com/kiteyet/sr-v2",
+  "repository": "https://github.com/kiteyet/sr-v2",
   "stack": "container"
 }
